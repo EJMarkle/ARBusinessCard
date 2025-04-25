@@ -1,6 +1,6 @@
 # 💼 Evan Markle - Augmented Reality Business Card
 
-This project is a mobile-friendly augmented reality business card built with [A-Frame](https://aframe.io/) and [MindAR](https://hiukim.github.io/mind-ar-js-doc/). When users point their phone camera at a printed target (like the back of a physical business card), interactive 3D buttons appear, linking to Evan Markle’s professional profiles and contact info.
+This project is a mobile-friendly augmented reality business card built with [A-Frame](https://aframe.io/) and [MindAR](https://hiukim.github.io/mind-ar-js-doc/). When users point their phone camera at a printed target (a qr code), interactive 3D buttons appear, linking to my professional profiles and contact info.
 
 ## 📱 Features
 
